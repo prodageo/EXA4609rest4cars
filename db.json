@@ -1,9 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "cars": [
+    { "id": 1, "name": "Ferrari", "isCool": true, "giphyUrl": "https://media3.giphy.com/media/F6I9NoTZQps40/giphy.gif?cid=e1bb72ff5bcc395a2e68632e77379f13" }
+    { "id": 2, "name": "Jaguar", "isCool": true, "giphyUrl": "https://media3.giphy.com/media/F6I9NoTZQps40/giphy.gif?cid=e1bb72ff5bcc395a2e68632e77379f13" }    
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "comments": { "id": 1, "comment": "Ferrari, Jaguar, Porsche, Lamborghini, Bugatti, AMC Gremlin, Triumph Stag, Ford Pinto, Yugo GV" }
 }
